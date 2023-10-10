@@ -2,11 +2,11 @@
 
 CineQuest is a React-based movie database app that allows users to search for and retrieve detailed information on movies, including title and IMDb rating. Additionally, users can add or remove movies from their watchlist for future viewing.
 
-![Screenshot](#insert-live-demo-url-here).
+![Screenshot](https://github.com/sa1nick/cinequest/blob/bb38f6bdc940d449a155d523e9b2efe49305c792/Preview.png)
 
 ## Live Demo
 
-You can try out CineQuest by visiting the [Live Demo](#insert-live-demo-url-here).
+You can try out CineQuest by visiting the [Live Demo](https://sa1nick.github.io/cinequest/).
 
 ## Features
 
