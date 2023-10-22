@@ -102,7 +102,7 @@ export default function MovieDetails({
 
       //cleanup function
       return function () {
-        document.title = "usePopcorn";
+        document.title = "CineQuest";
 
         // console.log(`Clean up effect for movie: ${title}`);
         // title's value will be saved even after component's
